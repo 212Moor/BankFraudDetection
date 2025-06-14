@@ -1,0 +1,1 @@
+En raison de la taille du fichier creditcard.csv , il n'est pas inclus dans le dossier. Merci de télécharger la base de données à partir du lien suivant : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
